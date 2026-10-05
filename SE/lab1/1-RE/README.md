@@ -1,3 +1,3 @@
 # Lab 1 — Requirements Engineering
 
-Contains functional/non-functional requirements and requirements traceability material.
+This folder contains the Requirements Engineering (RE) work.

@@ -1,7 +1,7 @@
 # Software Engineering Labs
 
-This repository contains all Software Engineering lab work in one place.
+## Lab structure
 
-- `lab1/` — Requirements and use-case analysis
-- `lab2/` — Lab 2 (to be added)
-- `lab3/` — Digital Art Commission & Watermarking Portal
+- `SE/lab1/1-RE/` — Lab 1: Requirements Engineering
+- `SE/lab2/3-Project_Creation_Screenshots/` — Lab 2: Project Creation Screenshots
+- `SE/lab3/2-Architectural_Diagram/` — Lab 3: Architectural Diagram
